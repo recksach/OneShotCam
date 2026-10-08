@@ -1,1 +1,2 @@
-#!/usr/bin/env sh\n# Gradle startup script\n
+#!/usr/bin/env sh
+exec gradle " \$@\
