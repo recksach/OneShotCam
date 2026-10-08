@@ -1,2 +1,2 @@
 #!/bin/sh
-exec gradle "$@"
+exec gradle --no-build-cache assembleDebug "$@"
