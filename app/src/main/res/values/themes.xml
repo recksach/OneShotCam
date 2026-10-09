@@ -1,5 +1,5 @@
 ﻿<resources>
-    <style name=" Theme.OneShotCam\ parent=\Theme.Material3.DayNight.NoActionBar\>
+    <style name="Theme.OneShotCam" parent="Theme.Material3.DayNight.NoActionBar\>
  <item name=\colorPrimary\>#1F1F1F</item>
  <item name=\colorOnPrimary\>#FFFFFF</item>
  <item name=\colorSurface\>#000000</item>
@@ -8,3 +8,4 @@
  <item name=\android:windowBackground\>#000000</item>
  </style>
 </resources>
+
